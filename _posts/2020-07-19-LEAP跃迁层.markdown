@@ -1,0 +1,53 @@
+---
+layout: post
+title: "LEAP跃迁层"
+date: 2020-07-19
+categories:
+  - Startup
+description:
+image: ../assets/img/shanghai.jpg
+image-sm: ../assets/img/shanghai.jpg
+---
+
+至少有5年没写博客了，距离上一次修改前端文件也过去了一两年。没想到许久之后的动笔，竟然是在GitHub Page上测试新的小官网。
+
+有些奇怪，这个兄弟的Markdown里面都用了HTML格式，看着略累（尤其是我随便下了个Notepad++在敲）。回头自己写还是简洁点就好。初创没什么额外预算，本来这种品牌运营也还不是时候吧，毕竟大多数业务不来自于此。不过未雨绸缪，有备无患，今天就“抢注”了微信公众号和GitHub账号，用户名都还在，挺好。
+
+目前有些东西要搞定，即使是在这样艰难的时刻：
+
+<ul>
+  <li>公司层面：产品定位，商业模式</li>
+  <li>产品层面：核心功能确定了，交互设计还要简化，产品性能需要稳定提高</li>
+  <li>用户层面：与竞品差异化，另外要寻求与同质用户的企业合作</li>
+</ul>
+
+<h3>试试3级标题的格式</h3>
+这种看起来挺多代码的Jekyll主题其实也挺傻瓜式的，想起初中的时候用网易博客还尝试各种customize，各种粘贴代码，笑了。
+
+<figure>
+  <img src="../assets/img/jump.jpg" alt="Cat Jumping"/>
+</figure>
+
+<blockquote>
+  猫猫跳跃，猫猫开心
+  <cite>我自己说的</cite>
+</blockquote>
+
+<h4>最后是四级标题</h4>
+行了今天就这吧，下雨凉快了一周，现在又热的不行。想来上海一起体验天上浇开水么？
+
+<figure>
+  <img src="h../assets/img/shanghai2.jpg" alt="City of Shanghai"/>
+  <figcaption>我们在上海，此刻。</figcaption>
+</figure>
+
+<figure>
+  <img src="../assets/img/leap_icon.png" alt="Leap Logo"/>
+</figure>
+
+<figure>
+  <img src="../assets/img/leap_wechat.jpg" alt="Leap Wechat Official Account"/>
+</figure>
+
+Leap Studio · 跃迁层
+让思想的灵光<b>跃</b>迁进现实

@@ -8,17 +8,16 @@ description: a Shanghai-based 3D animation & VR startup
 url: "leapstudio.github.io"
 baseurl: ""
 twitter_username: 
-default_img: img/LP-icon.png
+default_img: assets/img/leap_icon.png
 
 # Profile settings
 name: Leap Studio | 上海跃迁层
-profile_img: 
+profile_img: assets/img/jump.jpg
 profile: a Shanghai-based 3D animation & VR startup
 social:
-  github: leapstudio
-  wechat: leap_studio
-  weibo: 
-  bilibili: 
+  github: https://github.com/leapstudio
+  wechat: https://mp.weixin.qq.com/s/pbqcBW5g9I3WtyZOlezd-A
+  weibo: https://www.weibo.com/sunderedmoontalk
 
 # Build settings
 markdown: kramdown
@@ -39,7 +38,7 @@ exclude:
   - README.md
 
 # Pagination
-paginate: 5
+paginate: 4
 paginate_path: "/blog/page-:num"
 
 # Sass
