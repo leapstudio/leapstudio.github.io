@@ -5,8 +5,8 @@ date: 2020-07-19
 categories:
   - Startup
 description:
-image: ../assets/img/shanghai.jpg
-image-sm: ../assets/img/shanghai.jpg
+image: /assets/img/shanghai.jpg
+image-sm: /assets/img/shanghai_s.jpg
 ---
 
 至少有5年没写博客了，距离上一次修改前端文件也过去了一两年。没想到许久之后的动笔，竟然是在GitHub Page上测试新的小官网。
