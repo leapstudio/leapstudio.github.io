@@ -1,17 +1,17 @@
 # Site/SEO settings
-email: 
+email: leapstudio@foxmail.com
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-title: Trophy
-description: 
-url: ""
+title: Leap Studio
+description: a Shanghai-based 3D animation & VR startup
+url: "leapstudio.github.io"
 baseurl: ""
 twitter_username: 
 default_img: 
 
 # Profile settings
-name: 
+name: Leap Studio
 profile_img: 
 profile: 
 social:
