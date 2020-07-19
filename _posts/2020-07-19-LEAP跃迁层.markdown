@@ -25,7 +25,7 @@ image-sm: ../assets/img/shanghai.jpg
 这种看起来挺多代码的Jekyll主题其实也挺傻瓜式的，想起初中的时候用网易博客还尝试各种customize，各种粘贴代码，笑了。
 
 <figure>
-  <img src="../assets/img/jump.jpg" alt="Cat Jumping"/>
+  <img src="/assets/img/jump.jpg" alt="Cat Jumping"/>
 </figure>
 
 <blockquote>
@@ -37,16 +37,16 @@ image-sm: ../assets/img/shanghai.jpg
 行了今天就这吧，下雨凉快了一周，现在又热的不行。想来上海一起体验天上浇开水么？
 
 <figure>
-  <img src="h../assets/img/shanghai2.jpg" alt="City of Shanghai"/>
+  <img src="/assets/img/shanghai2.jpg" alt="City of Shanghai"/>
   <figcaption>我们在上海，此刻。</figcaption>
 </figure>
 
 <figure>
-  <img src="../assets/img/leap_icon.png" alt="Leap Logo"/>
+  <img src="/assets/img/leap_icon.png" alt="Leap Logo"/>
 </figure>
 
 <figure>
-  <img src="../assets/img/leap_wechat.jpg" alt="Leap Wechat Official Account"/>
+  <img src="/assets/img/leap_wechat.jpg" alt="Leap Wechat Official Account"/>
 </figure>
 
 Leap Studio · 跃迁层
