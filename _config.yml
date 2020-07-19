@@ -8,14 +8,17 @@ description: a Shanghai-based 3D animation & VR startup
 url: "leapstudio.github.io"
 baseurl: ""
 twitter_username: 
-default_img: 
+default_img: img/LP-icon.png
 
 # Profile settings
-name: Leap Studio
+name: Leap Studio | 上海跃迁层
 profile_img: 
-profile: 
+profile: a Shanghai-based 3D animation & VR startup
 social:
-  github: 
+  github: leapstudio
+  wechat: leap_studio
+  weibo: 
+  bilibili: 
 
 # Build settings
 markdown: kramdown
